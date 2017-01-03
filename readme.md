@@ -1,1 +1,1 @@
-a simple jQuery car racer app
+a simple JavaScript car racer app

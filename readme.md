@@ -1,4 +1,4 @@
-#Jump Start AngularJS 1.5
+#Jump Start jQuery 2.0
 ###**Getting started**
 ###Technologies Used
 ####`HTML5, CSS3, jQuery 2.1.4, Photoshop`

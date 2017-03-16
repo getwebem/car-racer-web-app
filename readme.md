@@ -1,7 +1,7 @@
-#Car Race app
-###**Getting started**
-###Technologies Used
-####HTML5, CSS3, jQuery 2.1.4, Photoshop
+# Sports Car app
+### **Getting started**
+### Technologies Used
+#### HTML5, CSS3, jQuery 2.1, Photoshop
  - Run :  `git clone https://github.com/getwebem/car-racer-web-app.git`
  - Run :  `cd car-racer-web-app`
  - Run :  `Brackets .`
